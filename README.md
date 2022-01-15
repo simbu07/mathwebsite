@@ -279,7 +279,7 @@ h1{
 
 ## OUTPUT:
 
-![git log](f1.png)
+![git log](F1.png)
 
 ## Result:
 
